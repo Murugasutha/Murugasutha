@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there! I'm Sutha,<br>I'm a Full Stack Developer with experience in building web applications using MERN stack and Python. Passionate about problem-solving, I enjoy working on innovative projects that blend technology with creativity.<br><br>🚀 What I Do:<br>Web Development – Building scalable and user-friendly applications with React.js, Node.js, Express.js, and MongoDB<br>Python Development – Developing applications with Flask, Django, and data processing with Pandas & NumPy.<br><br>🔭 Projects I'm Working On:<br>Crowdfunding Platform (MERN) – Supporting fundraising for innovative ideas<br><br>🎓 Education & Certifications:<br>MCA in Computer Applications – Kongu Arts and Science College (2022-2024)<br>B.Sc. in Computer Science – Kamaraj College (2019-2022)<br>Certified Python Developer – IBM & Techvolt Software
+# 👋 Hi there! I'm Sutha,
+I'm a Full Stack Developer with experience in building web applications using MERN stack and Python. Passionate about problem-solving, I enjoy working on innovative projects that blend technology with creativity.<br><br>🚀 What I Do:<br>Web Development – Building scalable and user-friendly applications with React.js, Node.js, Express.js, and MongoDB<br>Python Development – Developing applications with Flask, Django, and data processing with Pandas & NumPy.<br><br>🔭 Projects I'm Working On:<br>Crowdfunding Platform (MERN) – Supporting fundraising for innovative ideas<br><br>🎓 Education & Certifications:<br>MCA in Computer Applications – Kongu Arts and Science College (2022-2024)<br>B.Sc. in Computer Science – Kamaraj College (2019-2022)<br>Certified Python Developer – IBM & Techvolt Software
 
 
 ## 🌐 Socials:
@@ -24,4 +24,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Murugasutha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
